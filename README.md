@@ -1,4 +1,4 @@
-## Resumen Cometidos Obra 
+# Resumen Cometidos Obra 
 
 Comenzamos el desarrollo como tal de la obra el día 31 de Enero de 2022. Ese día el equipo de programación creó de cero las bases de datos para la obra y dentro de la misma, otras dos bases de datos llamadas Persoas y Empresas.
 
